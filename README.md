@@ -1,5 +1,5 @@
 <h1 align="center">
-  Arquitetura AWS de um Site de Ecommerce
+  Arquitetura AWS
 <h1>
 
 <p align="center">
